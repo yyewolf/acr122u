@@ -1,4 +1,4 @@
-module github.com/peterhellberg/acr122u
+module github.com/yyewolf/acr122u
 
 go 1.20
 
